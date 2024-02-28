@@ -8,7 +8,7 @@ UML.pdf
 
 C. ERD as an embedded JPG/PNG and URL to its LucidChart diagram.
 ERD.pdf
-Lucid charts link: https://lucid.app/lucidchart/bd1c0f0c-5d73-414a-b51a-57d4aa528a9d/edit?invitationId=inv_4ebee1a2-4c8f-4b4a-88ad-5d4204f99dde&page=0_0#
+Lucid charts link: https://lucid.app/lucidchart/bd1c0f0c-5d73-414a-b51a-57d4aa528a9d/edit?viewport_loc=-2033%2C-154%2C2050%2C1110%2C0_0&invitationId=inv_4ebee1a2-4c8f-4b4a-88ad-5d4204f99dde
 
 D. Definition of relational schema with proof that it is in BCNF.
 relationalSchema.pdf
