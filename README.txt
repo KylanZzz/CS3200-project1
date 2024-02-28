@@ -18,6 +18,7 @@ table_creation.sql
 
 F. SQL files for each one of the queries created on point 7, with clear documentation of what they achieve and examples of their outputs.
 queries.sql
+Example outputs: queries_output folder
 
 G. run the project in the terminal using
 $node server.js
