@@ -6,7 +6,7 @@ NATURAL JOIN Team
 NATURAL JOIN Skill
 NATURAL JOIN SkillLevel
 NATURAL JOIN SkillType
-WHERE team_id == 2
+WHERE team_id == 2;
 
 -- One must contain a subquery
 -- Gets the first and last name of all users who are in a team with an associated project
