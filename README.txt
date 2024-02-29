@@ -31,3 +31,5 @@ they can click the submit button which will register them as a user along with a
 The skills can be toggled on or off, but the user MUST select their proficiency. The list of skills and proficiency
 levels is queried from the database, not hardcoded in the frontend. I only had three skills added for demonstration
 purposes.
+
+Mock data has been filled into the database. User has 2050 rows, which is > the 1000 row minimum requirement.
